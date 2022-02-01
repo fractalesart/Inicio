@@ -55,6 +55,7 @@ body {
       position: fixed;
      
       width: 18%;
+      top: 0.5%;
      
       
     }
@@ -164,7 +165,7 @@ body {
         margin: 0;
         left: 0px;
      text-align: left;
-     margin-top: 0.3vw;
+     
     
     
     
@@ -176,6 +177,7 @@ body {
     
     font-size: 1.8vw;
     text-transform: uppercase;
+   
     
     }
     
